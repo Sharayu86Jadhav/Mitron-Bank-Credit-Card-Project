@@ -10,7 +10,7 @@
 # ![C A](https://github.com/Sharayu86Jadhav/Mitron-Bank-Credit-Card-Project/assets/157635652/cefdfb47-9e6b-42c3-8aae-d2e50c536ef5)
 
 #📈 Income analysis :- Calculated income utilization %  This key metric indicates that the higher income utilization % the more likely customers are to use credit card.
-# 
+# ![IN U](https://github.com/Sharayu86Jadhav/Mitron-Bank-Credit-Card-Project/assets/157635652/02a05fc5-a2fd-46b9-8735-2c095f486d2b)
 #📊 Spending insights :-Explored  highest spending  of customers and impact on occupation ,gender ,city ,age
 # ![S P](https://github.com/Sharayu86Jadhav/Mitron-Bank-Credit-Card-Project/assets/157635652/ccf0be69-b25b-4b40-8022-8f9c09d341e8)
 
