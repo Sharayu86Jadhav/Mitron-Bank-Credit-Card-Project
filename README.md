@@ -14,6 +14,8 @@
 #📊 Spending insights :-Explored  highest spending  of customers and impact on occupation ,gender ,city ,age
 # ![S P](https://github.com/Sharayu86Jadhav/Mitron-Bank-Credit-Card-Project/assets/157635652/ccf0be69-b25b-4b40-8022-8f9c09d341e8)
 
-#📍 Key customer segments :- By analysing the average income utilization %, we can pinpoint and describe key customer groups who are likely to be the most valuable users of the new credit cards. 
+#📍 Key customer segments :- By analysing the average income utilization %, we can pinpoint and describe key customer groups who are likely to be the most valuable users of the new credit cards.
+# ![K C](https://github.com/Sharayu86Jadhav/Mitron-Bank-Credit-Card-Project/assets/157635652/462f8f85-833e-46b7-8d04-1b093b9781d4)
+
 
 #👉 Result/Recommendation :- These recommendations are grounded in the data insights obtained, aiming to create a credit card that resonates with the preferences and behaviours of the identified key customer segments.
