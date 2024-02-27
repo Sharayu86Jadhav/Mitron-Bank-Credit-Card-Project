@@ -7,6 +7,8 @@
 
 #👉 Action :- 
 #👩‍👧‍👧 Customer Demographic :- Analyse the customers based on available demography such as age group, gender, occupation  and provide insights .
+# ![C A](https://github.com/Sharayu86Jadhav/Mitron-Bank-Credit-Card-Project/assets/157635652/cefdfb47-9e6b-42c3-8aae-d2e50c536ef5)
+
 #📈 Income analysis :- Calculated income utilization %  This key metric indicates that the higher income utilization % the more likely customers are to use credit card.
 #📊 Spending insights :-Explored  highest spending  of customers and impact on occupation ,gender ,city ,age 
 #📍 Key customer segments :- By analysing the average income utilization %, we can pinpoint and describe key customer groups who are likely to be the most valuable users of the new credit cards. 
